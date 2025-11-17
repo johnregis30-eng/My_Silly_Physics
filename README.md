@@ -1,4 +1,4 @@
-# 🌟 My_Silly_Physics
+# 🌟 Silly_Physics
 *A small corner of the internet where I explore physics the way I like it — curious, messy, and wonderfully fun.*
 
 Welcome to my personal physics playground.  
