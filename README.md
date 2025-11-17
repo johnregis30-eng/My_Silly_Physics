@@ -2,7 +2,7 @@
 *A small corner of the internet where I explore physics the way I like it  curious, chaotic, and wonderfully fun.*
 
 Welcome to my personal physics playground.  
-I’m an MSc student in Quantum Technology. Exploring the surface of 
+I’m an MSc student in Quantum Technology. Exploring the surface of topics, 
 from random walks to quantum devices, from neuromorphic concepts to tiny 2D flakes  
 that behave like they have personalities of their own.
 
